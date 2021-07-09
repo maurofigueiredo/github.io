@@ -5,7 +5,7 @@
 
 ### About me
 
-:technologist: I have a degree in computer science, currently working as a developer.
+:technologist: Sou formado em ciência da computação, atualmente trabalho como analista de sistemas.  
 
 
 :raised_hands: *"Bendito o homem que confia no SENHOR e cuja esperança é o SENHOR."*
