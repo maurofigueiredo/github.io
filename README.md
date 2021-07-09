@@ -7,5 +7,8 @@
 
 I have a degree in computer science, currently working as a developer.
 
+Jeremias 17:7
+*"Bendito o homem que confia no SENHOR e cuja esperança é o SENHOR."*
+
 
 
