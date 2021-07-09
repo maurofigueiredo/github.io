@@ -1,2 +1,2 @@
-### Olá 👋
-Sou formado em ciência da computação, atualmente trabalho como analista de sistemas.
+### Hi 👋 I'm Mauro
+I have a degree in computer science, currently working as a systems analyst.
