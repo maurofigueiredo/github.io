@@ -5,8 +5,11 @@
 
 ### Sobre mim
 
-- :technologist: Sou formado em ciência da computação, atualmente trabalho como analista de sistemas.  
-- :raised_hands: *"Bendito o homem que confia no SENHOR e cuja esperança é o SENHOR."* - Jeremias 17:7
+- :man_student: Sou formado em ciência da computação.  
+- :computer: Atualmente trabalho como analista de sistemas.
+ 
+:raised_hands: Jeremias 17:7
+> *"Bendito o homem que confia no SENHOR e cuja esperança é o SENHOR."* 
 
 
 
