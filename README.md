@@ -5,8 +5,8 @@
 
 ### Sobre mim
 
-- :man_student: Bacharel em ciência da computação.  
-- :computer: Atualmente trabalhando como analista de sistemas.
+- :man_student: Bacharel em Ciência da Computação.  
+- :computer: Atualmente trabalhando como Analista de Sistemas.
 
 ---------------
 
